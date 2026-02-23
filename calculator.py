@@ -1,6 +1,5 @@
 # Simple Calculator Program
-# Author: Naveen Kumar Kudumula
-# Internship Task - Codveda Technologies
+# Author: Naveen Kumar
 
 def show_menu():
     print("\n==== Simple Calculator ====")
@@ -47,3 +46,4 @@ while True:
         operation = "Division"
 
     print(f"\n{operation} Result = {result}")
+
